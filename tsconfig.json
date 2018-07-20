@@ -6,7 +6,12 @@
 		"noImplicitAny": true,
 		"noImplicitReturns": true,
 		"noImplicitThis": true,
-		"noImplicitUseStrict": true
+		"noImplicitUseStrict": true,
+		"plugins": [
+			{
+				"name": "typescript-styled-plugin"
+			}
+		]
 	},
 	"exclude": [
 		"node_modules"
