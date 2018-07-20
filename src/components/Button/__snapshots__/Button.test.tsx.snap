@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button component ui needs to match snapshot for styles 1`] = `
+<button
+  primary={true}
+/>
+`;

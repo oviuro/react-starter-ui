@@ -1,8 +1,9 @@
 import * as React from 'react'
 import {Fragment} from 'react'
+import {Button} from "./Button/Button";
 
 export const App = () => (
 	<Fragment>
-		<h1>Hello World</h1>
+		<Button>Hello</Button>
 	</Fragment>
 )

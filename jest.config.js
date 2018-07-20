@@ -1,5 +1,5 @@
 module.exports = {
-	verbose: true,
+	//verbose: true,
 	setupTestFrameworkScriptFile: '<rootDir>/setup-tests.ts',
 	transform: {
 		"^.+\\.tsx?$": "ts-jest"
